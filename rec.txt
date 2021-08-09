@@ -8,6 +8,10 @@ dev
 
 fundam
 
+os
+
+cn
+
 
 
 thank you! 
